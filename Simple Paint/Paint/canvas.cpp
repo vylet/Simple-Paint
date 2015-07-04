@@ -1,10 +1,11 @@
-#include <stdlib.h>
+#include <cstdlib>
 #include <windows.h>
 #include <GL/glut.h>
 #include<iostream>
 #include<vector>
 #include <math.h>
 #include "toolbox.h"
+#include <stdio.h>
 //#include <pngwriter.cpp>
 
 using namespace std;
