@@ -9,3 +9,6 @@ Libraries used:
 
 Programming Language Used:
 1. Visual C++
+
+Note:
+Added freeglut.dll to binaries folder.
